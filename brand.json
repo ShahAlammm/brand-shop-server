@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "photo": "image1.jpg",
+    "brandName": "Brand X",
+    "type": "Electronics",
+    "price": 499.99,
+    "shortDescription": "High-performance gadget for tech enthusiasts."
+  },
+  {
+    "id": 2,
+    "photo": "image2.jpg",
+    "brandName": "Brand Y",
+    "type": "Clothing",
+    "price": 29.99,
+    "shortDescription": "Comfortable and stylish attire for any occasion."
+  },
+  {
+    "id": 3,
+    "photo": "image3.jpg",
+    "brandName": "Brand Z",
+    "type": "Home Decor",
+    "price": 79.99,
+    "shortDescription": "Elegant decor piece to enhance your living space."
+  },
+  {
+    "id": 4,
+    "photo": "image4.jpg",
+    "brandName": "Brand P",
+    "type": "Sports Equipment",
+    "price": 149.99,
+    "shortDescription": "Professional-grade gear for sports enthusiasts."
+  },
+  {
+    "id": 5,
+    "photo": "image5.jpg",
+    "brandName": "Brand Q",
+    "type": "Kitchen Appliances",
+    "price": 89.99,
+    "shortDescription": "Efficient and modern kitchen appliance for daily use."
+  },
+  {
+    "id": 6,
+    "photo": "image6.jpg",
+    "brandName": "Brand R",
+    "type": "Beauty",
+    "price": 49.99,
+    "shortDescription": "Premium beauty product for a radiant look."
+  }
+]

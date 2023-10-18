@@ -24,14 +24,19 @@ const client = new MongoClient(uri, {
   }
 });
 
+const usersData = require('./brand.json');
+
 async function run() {
   try {
     // Connect the client to the server	(optional starting in v4.7)
     await client.connect();
 
+app.get('/users', async(req, res)=>{
+  res.json(usersData)
+})
 
 
-    
+
     // Send a ping to confirm a successful connection
     await client.db("admin").command({ ping: 1 });
     console.log("Pinged your deployment. You successfully connected to MongoDB!");

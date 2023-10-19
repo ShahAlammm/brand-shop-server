@@ -2,37 +2,37 @@
   {
     "id": 1,
     "photo": "image1.jpg",
-    "brandName": "Brand X",
+    "brandName": "Apple",
     "shortDescription": "High-performance gadget for tech enthusiasts."
   },
   {
     "id": 2,
     "photo": "image2.jpg",
-    "brandName": "Brand Y",
+    "brandName": "Google",
     "shortDescription": "Compact device with cutting-edge features."
   },
   {
     "id": 3,
     "photo": "image3.jpg",
-    "brandName": "Brand Z",
+    "brandName": "Samsung",
     "shortDescription": "Innovative technology for a connected world."
   },
   {
     "id": 4,
     "photo": "image4.jpg",
-    "brandName": "Brand A",
+    "brandName": "Sony",
     "shortDescription": "Sleek and stylish gadget for modern lifestyles."
   },
   {
     "id": 5,
     "photo": "image5.jpg",
-    "brandName": "Brand B",
+    "brandName": "Intel",
     "shortDescription": "Advanced device designed for power users."
   },
   {
     "id": 6,
     "photo": "image6.jpg",
-    "brandName": "Brand C",
+    "brandName": "Asus",
     "shortDescription": "Futuristic technology that redefines possibilities."
   }
 ]
